@@ -1,0 +1,37 @@
+OUTPUT
+
+[root@localhost mkr]# python abc.py 
+Address                  HWtype  HWaddress           Flags Mask            Iface 
+192.168.17.14                    (incomplete)                              p1p1 
+192.168.17.1             ether   c8:1f:66:05:8a:08   C                     p1p1 
+192.168.17.9             ether   18:dc:56:f0:3c:ce   C                     p1p1 
+192.168.17.17            ether   d0:b3:3f:c2:20:e2   C                     p1p1 
+192.168.17.8             ether   c0:18:85:c1:ed:71   C                     p1p1 
+192.168.17.16            ether   c4:50:06:0c:38:99   C                     p1p1 
+192.168.17.3             ether   b8:c6:8e:46:fe:01   C                     p1p1 
+192.168.17.11                    (incomplete)                              p1p1 
+192.168.17.19                    (incomplete)                              p1p1 
+192.168.17.2                     (incomplete)                              p1p1 
+192.168.17.10            ether   e4:d5:3d:89:0c:13   C                     p1p1 
+192.168.17.18                    (incomplete)                              p1p1 
+192.168.17.5             ether   9c:65:b0:9e:43:23   C                     p1p1 
+192.168.17.13            ether   30:39:26:91:47:8d   C                     p1p1 
+192.168.17.4                     (incomplete)                              p1p1 
+192.168.17.12                    (incomplete)                              p1p1 
+192.168.17.7             ether   14:1a:a3:9b:a3:26   C                     p1p1 
+192.168.17.15                    (incomplete)                              p1p1 
+192.168.17.6                     (incomplete)                              p1p1 
+root@192.168.17.1's password: 
+crafter-0.2.tar.gz                                                                                                  100%  377KB 377.3KB/s   00:00    
+root@192.168.17.1's password: 
+qwe.py                                                                                                              100%  196     0.2KB/s   00:00    
+root@192.168.17.1's password: 
+[root@localhost mkr]# ls 
+1.c~  3304    a3.java~  Desktop     Downloads             http.cpp~   Public             sniffer.cpp~  tp.sh      xyz.py 
+3105  3344    abc.py    dhcp.conf   encog-examples-3.2.0  keval.cpp~  pypcap-1.1.tar.gz  sniff.py~     tp.sh~     xyz.py~ 
+3204  444     abc.py~   dhcp.conf~  http1.cpp~            Music       qwe.py             STL_3143      Videos 
+3244  a2.py~  Chinmay   Documents   http2.cpp~            Pictures    qwe.py~            Templates     workspace 
+[root@localhost mkr]# cd Workspace 
+bash: cd: Workspace: No such file or directory 
+[root@localhost mkr]# exit 
+exit

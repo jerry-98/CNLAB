@@ -1,0 +1,6 @@
+logan@logan-Vostro-3578:~/Desktop/TE/cnl/assignmentA7$ ./a.out
+ARP Packets: 0
+IP Packets: 0
+TCP Packets: 1365
+UDP Packets: 233
+ICMP Packets: 0

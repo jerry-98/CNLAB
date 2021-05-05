@@ -1,0 +1,12 @@
+Enter Ip Address : 192.154.4.54
+Enter number of subnets : 4
+Subnet Mask : 255.255.255.192
+Number of subnets formed: 4
+
+No. of bits borrowed from host :2
+
+The Subnets are : 
+192.154.4.0 to 192.154.4.63 <- ip belongs to this range
+192.154.4.64 to 192.154.4.127
+192.154.4.128 to 192.154.4.191
+192.154.4.192 to 192.154.4.255

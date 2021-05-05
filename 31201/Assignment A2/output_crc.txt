@@ -1,0 +1,45 @@
+
+Sender's Side ::
+
+Enter the number of message bits : 6
+Enter the number of generator bits : 4
+Enter the message : 1 0 0 1 0 0
+Enter the generator : 1 1 0 1
+CRC : 0 0 1 
+Transmitted Data : 1 0 0 1 0 0 0 0 1
+
+ReceiVer's Side ::
+
+1. Display Sent Meassage
+2. Enter Received Message
+3. Exit
+Enter Choice :: 1
+
+
+Received Data : 1 0 0 1 0 0 0 0 1
+Received Message :: 1 0 0 1 0 0
+
+1. Display Sent Meassage
+2. Enter Received Message
+3. Exit
+Enter Choice :: 2
+
+
+Enter the received message : 1 0 0 1 0 0 0 0 1
+No error in received Message.
+Received Message : 1 0 0 1 0 0
+
+1. Display Sent Meassage
+2. Enter Received Message
+3. Exit
+Enter Choice :: 2
+
+
+Enter the received message : 1 0 1 0 0 0 1 1
+0
+Error detected in received message.
+Please Resend the Message
+1. Display Sent Meassage
+2. Enter Received Message
+3. Exit
+Enter Choice ::

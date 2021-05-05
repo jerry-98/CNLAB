@@ -1,0 +1,19 @@
+logan@logan-Vostro-3578:~/Desktop/TE/Cnl$ cd "/home/logan/Desktop/TE/Cnl/dns/" && javac IPDemo.java && java IPDemo
+1.Enter Host Name 
+2.Enter IP address 
+Choice=1
+
+ Enter host name: www.google.com
+IP address: 172.217.167.36
+Host name : www.google.com
+Host name and IP address: www.google.com/172.217.167.36
+
+
+1.Enter Host Name 
+2.Enter IP address 
+Choice=2
+
+ Enter IP address: 8.8.8.8
+Host name : dns.google
+IP address: 8.8.8.8
+Host name and IP address: dns.google/8.8.8.8

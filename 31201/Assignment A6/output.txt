@@ -1,0 +1,36 @@
+
+Starting up on localhost port 10000
+Waiting for connection
+Connection from  ('127.0.0.1', 56578)
+Received:  b'2 * 3'
+Sending the result back to client
+Received:  b'2 + 3'
+Sending the result back to client
+Received:  b'4 * 7'
+Sending the result back to client
+Received:  b''
+No more operations from client
+Waiting for connection
+
+
+logan@logan-Vostro-3578:~/Desktop/TE/Cnl$ python3 calcTCP/client.py 
+Connecting to localhost port 10000
+Enter the equation: 2 * 3
+Calculating result
+
+Result is: 6
+
+Do you wish to continue?(Yes/No): yes 
+Enter the equation: 2 + 3
+Calculating result
+
+Result is: 5
+
+Do you wish to continue?(Yes/No): no
+Enter the equation: 4 * 7
+Calculating result
+
+Result is: 28
+
+Do you wish to continue?(Yes/No): No
+Closing connection

@@ -1,0 +1,30 @@
+logan@logan-Vostro-3578:~/Desktop/TE/Cnl/UDP_FileTransfer$ java Sender 
+InetAddress: 127.0.0.1
+Port: 5000
+
+File Path: /home/logan/Desktop/TE/Cnl/UDP_FileTransfer/file.txt
+Reading... 
+Sending...
+File Sent: file.txt (5 bytes)
+
+File Path: /home/logan/Desktop/cp/prac/1.cpp
+Reading... 
+Sending...
+File Sent: 1.cpp (3401 bytes)
+
+
+
+logan@logan-Vostro-3578:~/Desktop/TE/Cnl/UDP_FileTransfer$ java Receiver 
+Receiving at Port:5000
+
+Incoming File: file.txt
+Sender: /127.0.0.1:41502
+Packets: 1
+Receiving... 
+File Received: file.txt
+
+Incoming File: 1.cpp
+Sender: /127.0.0.1:41502
+Packets: 1
+Receiving... 
+File Received: 1.cpp
